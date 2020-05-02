@@ -1,0 +1,1 @@
+Easily create a YDK project with Dockerfile from this template.
